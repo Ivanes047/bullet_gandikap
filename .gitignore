@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+consts.py
+
 # C extensions
 *.so
 
@@ -24,6 +26,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*.ifp
 MANIFEST
 
 # PyInstaller
